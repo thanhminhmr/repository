@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 10 14:54:50 ICT 2021
+org.eclipse.cdt.core-7.0.1-SNAPSHOT.jar>=
+org.eclipse.cdt.core-7.0.1-SNAPSHOT.pom>=
+org.eclipse.cdt.core-7.0.1-SNAPSHOT-sources.jar>=
