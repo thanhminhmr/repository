@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
 #Wed Jan 12 11:19:29 ICT 2022
-org.eclipse.cdt.core-7.3.0-SNAPSHOT-sources.jar>=
-org.eclipse.cdt.core-7.3.0-SNAPSHOT.pom>=
-org.eclipse.cdt.core-7.3.0-SNAPSHOT.jar>=
+mrmathami.cia.cpp.core-1.0.3-sources.jar>=
+mrmathami.cia.cpp.core-1.0.3.jar>=
+mrmathami.cia.cpp.core-1.0.3.pom>=
